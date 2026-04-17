@@ -103,3 +103,4 @@ See [integration options](integration-options.md) to choose the right package.
 We recommend using an Infura API key for reliable RPC access and relay connections.
 You can get a free API key from the [MetaMask Developer dashboard](/developer-tools/dashboard/get-started/create-api).
 MetaMask Connect uses the API key to generate RPC URLs for supported networks via the `getInfuraRpcUrls` helper.
+connect 
