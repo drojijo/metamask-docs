@@ -190,3 +190,4 @@ Use [`invokeMethod`](../reference/methods.md#invokemethod) to call RPC methods o
 - [Send transactions on EVM and Solana](../guides/send-transactions.md) from a single multichain session.
 - [Sign messages on EVM and Solana](../guides/sign-transactions.md) using `invokeMethod`.
 - See [Create a multichain dapp](../tutorials/create-multichain-dapp.md) for a full step-by-step tutorial with React.
+Connect 
