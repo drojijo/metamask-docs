@@ -94,3 +94,4 @@ Yes. When you call `createSolanaClient`, MetaMask is automatically registered wi
 ### Which Solana networks does MetaMask Connect support?
 
 MetaMask Connect Solana supports mainnet, devnet, and testnet. You can configure custom RPC URLs for each network using the `api.supportedNetworks` option in `createSolanaClient`. If your dapp also targets EVM networks, use [`@metamask/connect-multichain`](../multichain/index.md) to manage both ecosystems in a single session.
+connect
