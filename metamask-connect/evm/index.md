@@ -105,3 +105,4 @@ To migrate:
 - Update your provider access pattern.
 
 See the [migration guide](guides/migrate-from-sdk.md) for a step-by-step walkthrough with code examples for each change.
+Connect 
